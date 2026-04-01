@@ -1,0 +1,7 @@
+body {
+    min-height: 100vh;
+    color: var(--suisei-accent);
+    background:
+        linear-gradient(rgba(44, 62, 80, 0.7), rgba(44, 62, 80, 0.7)),
+        url("suibg.jpg") center/cover no-repeat;
+}
